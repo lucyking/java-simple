@@ -1,7 +1,4 @@
-##Main.java
-```
-Hello World
-alpha
->from super<
-Process finished with exit code 0
-```
+##Simple JAVA Test Case
+
+- super()
+- <<Java in a Nutshell,6th>>:P145 <T> type parameter
